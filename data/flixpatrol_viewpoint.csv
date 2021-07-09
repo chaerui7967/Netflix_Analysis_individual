@@ -1,0 +1,501 @@
+﻿#;TITLE;TYPE;COUNTRY;RELEASE;GENRE;COMPANY;VALUE
+1;"The Queen's Gambit";TV;"United States";2020-10-23;Drama;Netflix;44867
+2;"365 Days";Movie;Poland;2020-06-07;Romance;;42149
+3;"Emily in Paris";TV;"United States";2020-10-02;Drama;Netflix;27138
+4;Lucifer;TV;"United States";2016-01-25;Superhero;Netflix;25729
+5;"The Umbrella Academy";TV;"United States";2019-02-15;Superhero;Netflix;23480
+6;"Money Heist";TV;Spain;2017-05-02;Action;Netflix;22669
+7;"Dark Desire";TV;Mexico;2020-07-15;Drama;Netflix;21012
+8;"The Crown";TV;"United Kingdom";2016-11-04;History;Netflix;20937
+9;Friends;TV;"United States";1994-09-22;Comedy;"Warner Bros. Television";17782
+10;"Enola Holmes";Movie;"United Kingdom";2020-09-23;Drama;Netflix;16427
+11;"Yo soy Betty la fea";TV;Colombia;1999-10-25;Drama;;16264
+12;"The Christmas Chronicles: Part Two";Movie;Canada;2020-11-25;Comedy;Netflix;15910
+13;Ratched;TV;"United States";2020-09-18;Drama;Netflix;15762
+14;Holidate;Movie;"United States";2020-10-28;Comedy;Netflix;14831
+15;"Pablo Escobar, The Drug Lord";TV;Colombia;2012-05-28;Crime;;14828
+16;Dark;TV;Germany;2017-12-01;Mystery;Netflix;14794
+17;"The Last Dance";TV;"United States";2020-04-19;Documentary;ESPN;14145
+18;"The Old Guard";Movie;"United States";2020-07-10;Superhero;Netflix;13918
+19;Snowpiercer;TV;"United States";2020-05-17;"Science Fiction";Netflix;13853
+20;"The Social Dilemma";Movie;"United States";2020-09-09;Documentary;Netflix;13588
+21;"100 Dias Para Enamorarnos";TV;"United States";2020-04-28;Comedy;;13132
+22;"Project Power";Movie;"United States";2020-08-14;Action;Netflix;13006
+23;"The Haunting of Bly Manor";TV;"United States";2020-10-09;Horror;Netflix;13006
+24;"The SpongeBob Movie: Sponge on the Run";Movie;"United States";2020-11-05;Animated;Netflix;12833
+25;Cursed;TV;"United States";2020-07-17;Fantasy;Netflix;12791
+26;"The Kissing Booth 2";Movie;"United Kingdom";2020-07-24;Romance;Netflix;12763
+27;"Cobra Kai";TV;"United States";2018-05-02;Action;Netflix;12270
+28;Extraction;Movie;"United States";2020-04-24;Action;Netflix;12023
+29;"It's Okay to Not Be Okay";TV;"South Korea";2020-06-20;Drama;Netflix;11751
+30;"Paw Patrol";TV;"United States";2013-08-12;Animation;Nickelodeon;11013
+31;"Locked Up";TV;Spain;2015-04-20;Drama;Netflix;10746
+32;"Modern Family";TV;"United States";2009-09-23;Comedy;ABC;10678
+33;"Hubie Halloween";Movie;"United States";2020-10-07;Comedy;Netflix;10571
+34;"Warrior Nun";TV;"United States";2020-07-02;Fantasy;Netflix;10536
+35;"Star Trek: Discovery";TV;"United States";2017-09-24;"Science Fiction";Paramount+;10529
+36;"Too Hot to Handle";TV;"United States";2020-04-17;Reality-Show;Netflix;10405
+37;Away;TV;"United States";2020-09-04;"Science Fiction";Netflix;10277
+38;Barbaren;TV;Germany;2020-10-23;History;Netflix;10165
+39;"Virgin River";TV;"United States";2019-12-06;Drama;Netflix;10069
+40;"Unsolved Mysteries";TV;"United States";2020-07-01;Documentary;Netflix;9711
+41;"Tiny Pretty Things";TV;"United States";2020-12-14;Drama;Netflix;9371
+42;CoComelon;TV;"United States";2020-11-01;Animation;;9032
+43;"Over the Moon";Movie;China;2020-10-23;Animated;Netflix;8751
+44;"A California Christmas";Movie;"United States";2020-12-14;Comedy;Netflix;8520
+45;Start-Up;TV;"South Korea";2020-10-17;Comedy;;8494
+46;"13 Reasons Why";TV;"United States";2017-03-31;Drama;Netflix;8246
+47;"The Devil All the Time";Movie;"United States";2020-09-16;Drama;Netflix;8240
+48;"Work It";Movie;"United States";2020-08-07;Comedy;Netflix;8162
+49;"Love, Guaranteed";Movie;"United States";2020-09-03;Comedy;Netflix;7688
+50;"American Murder: The Family Next Door";Movie;"United States";2020-09-30;Documentary;"Zero Point Zero";7667
+51;"Feel the Beat";Movie;"United States";2020-06-19;Comedy;Netflix;7468
+52;"Rick and Morty";TV;"United States";2013-12-02;Animation;AdultSwim;7438
+53;"The Christmas Chronicles";Movie;"United States";2018-11-22;Comedy;Netflix;7275
+54;"Jurassic World: Camp Cretaceous";TV;"United States";2020-09-17;Animation;Netflix;7220
+55;"The Princess Switch: Switched Again";Movie;"United States";2020-11-19;Romance;Netflix;7146
+56;"White Lines";TV;"United Kingdom";2020-05-15;Crime;Netflix;7044
+57;"The King: Eternal Monarch";TV;"South Korea";2020-04-17;"Science Fiction";Netflix;7037
+58;"The 100";TV;"United States";2014-03-19;"Science Fiction";CW;6980
+59;"The Grinch";Movie;"United States";2018-11-08;Animated;"Illumination Entertainment";6972
+60;#Alive;Movie;"South Korea";2020-09-08;Horror;Netflix;6918
+61;"Operation Christmas Drop";Movie;"United States";2020-11-05;Comedy;Netflix;6768
+62;"Her Mother's Killer";TV;Colombia;2020-04-13;Drama;;6673
+63;Dynasty;TV;"United States";2017-10-11;Drama;Netflix;6541
+64;"The Boss Baby: Back in Business";TV;"United States";2018-04-06;Animation;Netflix;6524
+65;"The Sleepover";Movie;"United States";2020-08-21;Comedy;Netflix;6480
+66;"Space Force";TV;"United States";2020-05-29;Comedy;Netflix;6424
+67;Riverdale;TV;"United States";2017-01-26;Superhero;"Warner Bros. Television";6402
+68;"The Wrong Missy";Movie;"United States";2020-05-13;Comedy;Netflix;6381
+69;Rebecca;Movie;"United Kingdom";2020-10-21;Drama;Netflix;6331
+70;Bronx;Movie;France;2020-10-30;Crime;Netflix;6306
+71;"Tiger King: Murder, Mayhem and Madness";TV;"United States";2020-03-20;Documentary;Netflix;6303
+72;"The Order";TV;"United States";2019-03-07;Fantasy;Netflix;6261
+73;"Good Girls";TV;"United States";2018-02-26;Comedy;Netflix;6171
+74;Ozark;TV;"United States";2017-07-21;Drama;Netflix;6053
+75;"The Midnight Sky";Movie;"United States";2020-12-23;"Science Fiction";Netflix;6052
+76;"Record of Youth";TV;"South Korea";2020-09-07;Drama;;5966
+77;"Amar y Vivir";TV;Colombia;2020-01-07;Drama;Netflix;5918
+78;"How the Grinch Stole Christmas";Movie;"United States";2000-11-17;Fantasy;"Universal Pictures";5912
+79;"Pasión de gavilanes";TV;Colombia;2003-07-06;Drama;;5720
+80;"The Babysitter: Killer Queen";Movie;"United States";2020-09-10;Horror;Netflix;5703
+81;"Floor is Lava";TV;"United States";2020-06-19;Reality-Show;Netflix;5637
+82;Mosul;Movie;"United States";2020-11-26;War;Netflix;5568
+83;"The Paramedic";Movie;Spain;2020-09-16;Thriller;Netflix;5560
+84;"The Platform";Movie;Spain;2020-03-20;"Science Fiction";Netflix;5534
+85;"To the Lake";TV;Russia;2019-11-14;"Science Fiction";Netflix;5505
+86;"The Mess You Leave Behind";TV;Spain;2020-12-11;Drama;Netflix;5485
+87;"Never Have I Ever";TV;"United States";2020-04-27;Comedy;Netflix;5466
+88;"The Kissing Booth";Movie;"United Kingdom";2018-05-11;Comedy;Netflix;5407
+89;MILF;Movie;France;2018-05-02;Comedy;StudioCanal;5358
+90;Skyscraper;Movie;"United States";2018-07-04;Action;"Universal Pictures";5336
+91;"Outer Banks";TV;"United States";2020-04-15;Drama;Netflix;5328
+92;"The Blacklist";TV;"United States";2013-09-23;Crime;NBC;5307
+93;Desperados;Movie;"United States";2020-07-03;Comedy;Netflix;5241
+94;"The Last Days of American Crime";Movie;"United States";2020-06-05;"Science Fiction";Netflix;5185
+95;"The Beast";Movie;Italy;2020-11-27;Crime;Netflix;5160
+96;"Jeffrey Epstein: Filthy Rich";TV;"United States";2020-05-27;Documentary;Netflix;5109
+97;"The Seven Deadly Sins";TV;Japan;2014-10-05;Animation;Netflix;5083
+98;"Despicable Me 2";Movie;"United States";2013-06-25;Animated;"Universal Pictures";5010
+99;"Eurovision Song Contest: The Story of Fire Saga";Movie;"United States";2020-06-26;Comedy;Netflix;4829
+100;"The Willoughbys";Movie;Canada;2020-04-22;Animated;Netflix;4648
+101;"Dangerous Lies";Movie;"United States";2020-04-30;Thriller;Netflix;4620
+102;"Jingle Jangle: A Christmas Journey";Movie;"United States";2020-11-13;Music;Netflix;4578
+103;"Crash Landing on You";TV;"South Korea";2019-12-14;Drama;Netflix;4515
+104;Bridgerton;TV;"United States";2020-12-25;Drama;Netflix;4476
+105;"Lost Bullet";Movie;France;2020-06-19;Crime;Netflix;4459
+106;"Prison Break";TV;"United States";2005-08-29;Action;"FOX TV";4356
+107;Unorthodox;TV;Germany;2020-03-26;Drama;Netflix;4285
+108;"6 Underground";Movie;"United States";2019-12-13;Action;Netflix;4267
+109;"Jurassic World: Fallen Kingdom";Movie;"United States";2018-06-06;"Science Fiction";"Universal Pictures";4233
+110;"The Emoji Movie";Movie;"United States";2017-07-28;Animated;"Sony Pictures";4162
+111;"How to Get Away with Murder";TV;"United States";2014-09-25;Crime;ABC;4162
+112;"David Attenborough: A Life on Our Planet";Movie;"United States";2020-10-04;Documentary;Netflix;4121
+113;"The Prom";Movie;"United States";2020-12-11;Comedy;Netflix;4104
+114;"Toy Boy";TV;Spain;2019-09-07;Crime;Netflix;4093
+115;"The Sinner";TV;"United States";2017-08-02;Crime;"USA Network";4081
+116;"Resurrection: Ertugrul";TV;Turkey;2014-12-11;Drama;;4049
+117;"Dash & Lily";TV;"United States";2020-11-10;Comedy;Netflix;4040
+118;"Demon Slayer: Kimetsu no Yaiba";TV;Japan;2019-04-06;Animation;;4040
+119;"Enemigo íntimo";TV;Spain;2018-02-21;Drama;;3922
+120;"What Men Want";Movie;"United States";2019-01-11;Comedy;"Will Packer Productions";3869
+121;"We Can Be Heroes";Movie;"United States";2020-12-25;Adventure;Netflix;3807
+122;"Down to Earth with Zac Efron";TV;"United States";2020-07-10;Documentary;Netflix;3793
+123;"The Trial of the Chicago 7";Movie;"United States";2020-10-16;Drama;Netflix;3759
+124;"Was It Love";TV;"South Korea";2020-07-08;Comedy;Netflix;3746
+125;"Sweet Home";TV;"South Korea";2020-12-18;Horror;Netflix;3709
+126;"Hospital Playlist";TV;"South Korea";2020-03-12;Drama;Netflix;3698
+127;"Selena: The Series";TV;Mexico;2020-12-04;Drama;Netflix;3646
+128;Wonder;Movie;"United States";2017-11-13;Drama;Lionsgate;3643
+129;Elite;TV;Spain;2018-10-05;Crime;Netflix;3617
+130;"World's Most Wanted";TV;"United States";2020-08-05;Documentary;Netflix;3564
+131;"Dead to Me";TV;"United States";2019-05-03;Drama;Netflix;3513
+132;"Fatal Affair";Movie;"United States";2020-07-16;Thriller;Hybrid;3502
+133;"Secrets of the Saqqara Tomb";Movie;"United States";2020-10-28;Documentary;Netflix;3465
+134;"Queen of the South";TV;"United States";2016-06-23;Drama;"USA Network";3437
+135;"An Easy Girl";Movie;France;2019-08-28;Comedy;;3424
+136;"Blood of Zeus";TV;"United States";2020-10-27;Animation;Netflix;3377
+137;Ava;Movie;"United States";2020-07-02;Thriller;"Vertical Entertainment";3359
+138;"The Witcher";TV;"United States";2019-12-20;Fantasy;Netflix;3306
+139;"Love. Wedding. Repeat";Movie;"United Kingdom";2020-04-10;Comedy;Netflix;3281
+140;"Despicable Me";Movie;"United States";2010-07-09;Animated;"Universal Pictures";3270
+141;"Alice in Borderland";TV;Japan;2020-12-10;"Science Fiction";Netflix;3239
+142;Santana;Movie;Angola;2020-08-28;Action;;3239
+143;"A Babysitter's Guide to Monster Hunting";Movie;"United States";2020-10-14;Adventure;Netflix;3215
+144;"The Secret: Dare to Dream";Movie;"United States";2020-04-16;Drama;;3190
+145;"The Half of It";Movie;"United States";2020-05-01;Comedy;Netflix;3185
+146;"La Révolution";TV;France;2020-10-16;Drama;Netflix;3165
+147;"Johnny English Strikes Again";Movie;"United Kingdom";2018-09-13;Comedy;"Universal Pictures";3158
+148;"Big Mouth";TV;"United States";2017-09-29;Animation;Netflix;3144
+149;"Money Heist: The Phenomenon";Movie;Spain;2020-04-03;Documentary;Netflix;2980
+150;"The Call";Movie;"South Korea";2020-11-27;Thriller;Netflix;2971
+151;"Fifty Shades Freed";Movie;"United States";2018-02-07;Romance;"Universal Pictures";2942
+152;Hoops;TV;"United States";2020-08-21;Animation;Netflix;2889
+153;Aquaman;Movie;"United States";2018-12-07;Superhero;"Warner Bros. Pictures";2887
+154;"The Rain";TV;Denmark;2018-05-04;"Science Fiction";Netflix;2883
+155;"Da 5 Bloods";Movie;"United States";2020-06-12;Drama;Netflix;2878
+156;"Pets United";Movie;Germany;2019-11-08;Animated;Netflix;2856
+157;"El Dragón: Return of a Warrior";TV;Mexico;2019-10-04;Action;Netflix;2855
+158;"Instant Family";Movie;"United States";2018-11-16;Comedy;"Closest to the Hole Productions";2850
+159;"How to Sell Drugs Online (Fast)";TV;Germany;2019-05-31;Comedy;Netflix;2846
+160;Venom;Movie;"United States";2018-10-03;Superhero;"Sony Pictures";2788
+161;"Harry Potter and the Philosopher's Stone";Movie;"United Kingdom";2001-11-16;Fantasy;"Warner Bros. Pictures";2788
+162;"Mystic Pop-Up Bar";TV;"South Korea";2020-05-20;Mystery;Netflix;2785
+163;"Malibu Rescue: The Next Wave";Movie;"United States";2020-08-04;Comedy;Netflix;2760
+164;"Miracle in Cell No. 7";Movie;Turkey;2019-10-10;Drama;"Viva Films";2760
+165;"BLACKPINK: Light Up the Sky";Movie;"United States";2020-10-14;Documentary;Netflix;2730
+166;"Family Guy";TV;"United States";1999-01-31;Animation;"FOX TV";2720
+167;"The Last Kingdom";TV;"United Kingdom";2015-10-10;History;Netflix;2713
+168;"The Business of Drugs";TV;"United States";2020-07-14;Documentary;Netflix;2701
+169;"Young Wallander";TV;Sweden;2020-09-03;Crime;Netflix;2691
+170;Trinkets;TV;"United States";2019-06-14;Drama;Netflix;2691
+171;"Fear City: New York vs The Mafia";TV;"United States";2020-07-22;Documentary;Netflix;2665
+172;"Grizzy & the Lemmings";TV;France;2016-11-07;Animation;;2659
+173;"Alien Worlds";TV;"United Kingdom";2020-12-02;Documentary;Netflix;2655
+174;"If Anything Happens I Love You";Movie;"United States";2020-11-20;Animated;Netflix;2649
+175;"Time Trap";Movie;"United States";2017-05-19;"Science Fiction";;2640
+176;Freud;TV;Austria;2020-03-15;Drama;Netflix;2638
+177;"Furious 7";Movie;"United States";2015-04-03;Action;"Universal Pictures";2627
+178;"Freaks – You're One of Us";Movie;Germany;2020-09-02;Superhero;Netflix;2580
+179;"Stolen Away";TV;Spain;2020-01-14;Drama;;2568
+180;"Code 8";Movie;Canada;2019-12-06;"Science Fiction";;2568
+181;"Bimilui Soop";TV;"South Korea";2017-06-10;Crime;;2567
+182;Baby;TV;Italy;2018-11-30;Drama;Netflix;2541
+183;"Grey's Anatomy";TV;"United States";2005-03-27;Drama;ABC;2527
+184;"Animal Crackers";Movie;"United States";2018-06-07;Animated;;2517
+185;"Into the Night";TV;Belgium;2020-05-01;;Netflix;2502
+186;"A Million Ways to Die in the West";Movie;"United States";2014-05-30;Comedy;"Media Rights Capital";2487
+187;"Dad Wanted";Movie;Mexico;2020-09-11;Comedy;Netflix;2480
+188;"The World of the Married";TV;"South Korea";2020-03-27;Drama;;2479
+189;"The Equalizer 2";Movie;"United States";2018-07-19;Action;"Sony Pictures";2468
+190;"Justice League";Movie;"United States";2017-11-15;Superhero;"Warner Bros. Pictures";2448
+191;"Rose Island";Movie;Italy;2020-12-09;Comedy;Netflix;2395
+192;"The Meg";Movie;"United States";2018-08-10;Horror;"Warner Bros. Pictures";2383
+193;"Deadly Class";TV;"United States";2019-01-16;Superhero;"Sony Pictures Television";2370
+194;"Get Organized with The Home Edit";TV;"United States";2020-09-09;Reality-Show;Netflix;2365
+195;"The Purge: Anarchy";Movie;"United States";2014-07-17;Horror;"Universal Pictures";2336
+196;"Dirty John";TV;"United States";2018-11-25;Drama;Netflix;2335
+197;"The Great Heist";TV;Colombia;2020-08-14;Crime;Netflix;2320
+198;"The Flash";TV;"United States";2014-10-07;Superhero;CW;2318
+199;Vikings;TV;Ireland;2013-03-03;History;"History TV";2316
+200;"The Life Ahead";Movie;Italy;2020-11-13;Drama;Netflix;2312
+201;"Midnight at the Magnolia";Movie;Canada;2020-11-05;Comedy;;2305
+202;"Just Another Christmas";Movie;Brazil;2020-12-03;Comedy;"Good Films";2301
+203;"Night School";Movie;"United States";2018-09-27;Comedy;;2293
+204;Biohackers;TV;Germany;2020-08-20;Drama;Netflix;2290
+205;"Coffee & Kareem";Movie;"United States";2020-04-03;Comedy;Netflix;2268
+206;"Private Lives";TV;"South Korea";2020-10-07;Crime;Netflix;2251
+207;"Seriously Single";Movie;"South Africa";2020-07-31;Comedy;Netflix;2251
+208;Suits;TV;"United States";2011-06-23;Drama;"USA Network";2237
+209;"The F**k-It List";Movie;"United States";2020-07-01;Comedy;"Awesomeness Films";2208
+210;"The Barrier";TV;Spain;2020-09-11;"Science Fiction";;2206
+211;"Home for Christmas";TV;Norway;2019-12-05;Comedy;Netflix;2203
+212;"American Assassin";Movie;"United States";2017-09-14;Action;;2185
+213;"Murder Mystery";Movie;"United States";2019-06-14;Comedy;Netflix;2182
+214;Focus;Movie;"United States";2015-02-27;Crime;"Warner Bros. Pictures";2180
+215;"The Boss Baby: Get That Baby!";Movie;"United States";2020-09-01;Animated;"Zero Point Zero";2174
+216;"Hotel Transylvania 3: Summer Vacation";Movie;"United States";2018-07-12;Animated;"Square Enix";2169
+217;"The Star";Movie;"United States";2017-11-15;Animated;"Sony Pictures";2159
+218;"Mortal Engines";Movie;"United States";2018-11-27;"Science Fiction";"Universal Pictures";2156
+219;"Spider-Man: Homecoming";Movie;"United States";2017-07-05;Superhero;"Sony Pictures";2152
+220;"The Ripper";TV;"United Kingdom";2020-12-16;Documentary;Netflix;2138
+221;"You've Got This";Movie;Mexico;2020-10-02;Comedy;Netflix;2113
+222;"In the Heart of the Sea";Movie;"United States";2015-12-03;Drama;"Warner Bros. Pictures";2108
+223;"Christmas Made to Order";Movie;"United States";2018-12-23;Romance;"Hallmark Entertainment";2097
+224;"Sweet Magnolias";TV;"United States";2020-05-19;Drama;Netflix;2079
+225;"Itaewon Class";TV;"South Korea";2020-01-31;Drama;Netflix;2073
+226;"Control Z";TV;Mexico;2020-05-22;Drama;Netflix;2062
+227;"Brooklyn Nine-Nine";TV;"United States";2013-09-17;Comedy;NBC;2047
+228;Ludo;Movie;India;2020-11-12;Comedy;;2040
+229;"Spider-Man: Into the Spider-Verse";Movie;"United States";2018-12-07;Superhero;"Sony Pictures";2019
+230;"Selling Sunset";TV;"United States";2019-03-22;Reality-Show;Netflix;2008
+231;Bumblebee;Movie;"United States";2018-12-15;"Science Fiction";"Paramount Pictures";2006
+232;"High Score";TV;"United States";2020-08-19;Documentary;Netflix;2004
+233;Paranormal;TV;Egypt;2020-11-05;Horror;Netflix;1992
+234;"The End of Paradise";TV;"United States";2019-08-13;Crime;;1970
+235;"Spenser Confidential";Movie;"United States";2020-03-06;Crime;Netflix;1961
+236;"History 101";TV;"United Kingdom";2020-05-22;Documentary;Netflix;1930
+237;"The Alienist";TV;"United States";2018-01-22;Crime;"Warner Bros. Television";1897
+238;Rampage;Movie;"United States";2018-04-19;Adventure;"Warner Bros. Pictures";1889
+239;"Mission: Impossible - Fallout";Movie;"United States";2018-07-13;Action;Paramount;1882
+240;"The Holiday";Movie;"United States";2006-12-08;Romance;"Sony Pictures";1859
+241;"ariana grande: excuse me, i love you";Movie;"United States";2020-12-21;Concerts;Netflix;1855
+242;"The Princess Switch";Movie;"United States";2018-11-16;Romance;Netflix;1850
+243;"Jane the Virgin";TV;"United States";2014-10-13;Comedy;;1847
+244;"Don't Listen";Movie;Spain;2020-11-27;Horror;Netflix;1838
+245;"Harry Potter and the Chamber of Secrets";Movie;"United Kingdom";2002-11-03;Fantasy;"Warner Bros. Pictures";1808
+246;"The Walking Dead";TV;"United States";2010-10-31;Horror;AMC;1795
+247;"The First Purge";Movie;"United States";2018-07-04;Horror;;1793
+248;"Better Call Saul";TV;"United States";2015-02-08;Crime;AMC;1784
+249;Geostorm;Movie;"United States";2017-10-13;Thriller;;1781
+250;"Safe House";Movie;"United States";2012-02-10;Thriller;"Universal Pictures";1778
+251;"The Main Event";Movie;"United States";2020-04-10;Comedy;Netflix;1750
+252;"The Baby-Sitters Club";TV;"United States";2020-07-03;Comedy;Netflix;1725
+253;"Bad Boys for Life";Movie;"United States";2020-01-16;Action;"Sony Pictures";1712
+254;"Double World";Movie;Hong-Kong;2019-11-22;Action;"Great Earth Film Company";1710
+255;Parker;Movie;"United States";2013-01-25;Crime;;1709
+256;"Kärlek & Anarki";TV;Sweden;2020-11-04;Drama;Netflix;1707
+257;"Schitt's Creek";TV;Canada;2015-01-13;Comedy;;1705
+258;Valeria;TV;Spain;2020-05-08;Drama;Netflix;1704
+259;"All Together Now";Movie;"United States";2020-08-28;Drama;Netflix;1699
+260;"Jumanji: The Next Level";Movie;"United States";2019-12-04;Adventure;"Sony Pictures";1684
+261;"A Suitable Boy";TV;"United Kingdom";2020-07-26;Drama;;1661
+262;Hollywood;TV;"United States";2020-05-01;Drama;Netflix;1659
+263;"A Star is Born";Movie;"United States";2018-05-16;Drama;MGM;1645
+264;Undercover;TV;Belgium;2019-02-24;Crime;Netflix;1643
+265;Tammy;Movie;"United States";2014-07-03;Comedy;;1612
+266;"Anne with an E";TV;Canada;2017-03-19;Drama;Netflix;1608
+267;"The Gift";TV;Turkey;2019-12-27;Mystery;Netflix;1607
+268;"The Woods";TV;Poland;2020-06-12;Crime;Netflix;1602
+269;"Hillbilly Elegy";Movie;"United States";2020-11-24;Drama;Netflix;1602
+270;Siberia;Movie;"United States";2018-07-13;Crime;"Company Films";1598
+271;"Behzat Ç.";TV;Turkey;2010-09-19;Crime;;1594
+272;Intuition;Movie;Argentina;2020-05-28;Crime;Netflix;1592
+273;"A Simple Favor";Movie;"United States";2018-09-13;Crime;;1591
+274;"Earth and Blood";Movie;France;2020-04-17;Action;Netflix;1584
+275;"Chica Vampiro";TV;Colombia;2013-05-14;"Science Fiction";;1583
+276;"Sex Education";TV;"United States";2019-01-11;Comedy;Netflix;1574
+277;"The Uncanny Counter";TV;"South Korea";2020-11-28;Fantasy;;1563
+278;"Escape Plan";Movie;"United States";2013-11-13;Action;"Summit Entertainment";1563
+279;"Teenage Bounty Hunters";TV;"United States";2020-08-14;Comedy;Netflix;1554
+280;Bloodshot;Movie;"United States";2020-02-20;"Science Fiction";"Sony Pictures";1533
+281;"Pacific Rim: Uprising";Movie;"United States";2018-03-21;"Science Fiction";"Universal Pictures";1523
+282;Lucy;Movie;"United States";2014-07-25;Action;"Universal Pictures";1519
+283;"Baby Driver";Movie;"United States";2017-06-28;Action;"Sony Pictures";1517
+284;"Do Do Sol Sol La La Sol";TV;"South Korea";2020-10-07;Comedy;Netflix;1507
+285;"The Good Place";TV;"United States";2016-09-19;Comedy;NBC;1500
+286;Cadaver;Movie;Norway;2020-10-22;Horror;Netflix;1489
+287;"Nobody Sleeps In The Woods Tonight";Movie;Poland;2020-10-28;Horror;Netflix;1477
+288;"Cinderela Pop";Movie;Brazil;2019-02-28;Comedy;"Good Films";1476
+289;"Crazy Rich Asians";Movie;"United States";2018-08-15;Comedy;"Warner Bros. Pictures";1471
+290;"Despicable Me 3";Movie;"United States";2017-06-15;Animated;"Universal Pictures";1461
+291;"Scooby-Doo 2: Monsters Unleashed";Movie;"United States";2004-03-20;Fantasy;"Warner Bros. Pictures";1460
+292;"Ready Player One";Movie;"United States";2018-03-28;"Science Fiction";"Warner Bros. Pictures";1448
+293;"Death to 2020";Movie;"United States";2020-12-27;Comedy;Netflix;1425
+294;Norbit;Movie;"United States";2007-02-08;Comedy;DreamWorks;1420
+295;"The Big Show Show";TV;"United States";2020-04-06;Comedy;Netflix;1413
+296;"Dare Me";TV;"United States";2019-12-29;Crime;Netflix;1408
+297;Ted;Movie;"United States";2012-06-29;Comedy;"Universal Pictures";1395
+298;It;Movie;"United States";2017-09-05;Horror;"Warner Bros. Pictures";1392
+299;"Wasp Network";Movie;France;2020-06-19;Drama;;1389
+300;"Wizards: Tales of Arcadia";TV;"United States";2020-08-07;Animation;Netflix;1373
+301;"All Day and a Night";Movie;"United States";2020-05-01;Drama;Netflix;1368
+302;"Glow Up: Britain's Next Make-Up Star";TV;"United Kingdom";2019-03-05;Reality-Show;;1360
+303;"Indian Matchmaking";TV;"United States";2020-07-16;Reality-Show;;1346
+304;"Ocean's 8";Movie;"United States";2018-06-08;Crime;"Warner Bros. Pictures";1334
+305;"Alexa & Katie";TV;"United States";2018-03-23;Comedy;Netflix;1332
+306;"12 Strong";Movie;"United States";2018-01-16;War;"Lions Gate";1323
+307;"The Fabulous Lives of Bollywood Wives";TV;India;2020-11-27;Reality-Show;Netflix;1315
+308;"Bad Boy Billionaires: India";TV;India;2020-09-02;Documentary;;1312
+309;"Cable Girls";TV;Spain;2017-04-28;Drama;Netflix;1305
+310;"The Letter for the King";TV;"United Kingdom";2020-03-20;Fantasy;Netflix;1300
+311;"How to Train Your Dragon: The Hidden World";Movie;"United States";2019-01-23;Animated;"Universal Pictures";1298
+312;"Wonder Woman";Movie;"United States";2017-05-30;Superhero;"Warner Bros. Pictures";1293
+313;"The Fall";TV;"United Kingdom";2013-05-12;Crime;"BBC Two";1271
+314;"Reply 1988";TV;"South Korea";2015-11-06;Comedy;;1264
+315;Becoming;Movie;"United States";2020-05-06;Documentary;Netflix;1243
+316;"Princess Sarah";TV;Philippines;2007-11-12;Drama;;1240
+317;"One Piece";TV;Japan;1999-10-20;Animation;;1239
+318;"The Occupant";Movie;Spain;2020-03-25;Crime;"Nostromo Pictures";1239
+319;"Sniper: Ultimate Kill";Movie;"United States";2017-10-03;Action;;1236
+320;"Ride Along";Movie;"United States";2014-01-17;Comedy;"Universal Pictures";1233
+321;"The Liberator";TV;"United States";2020-11-11;Animation;Netflix;1232
+322;Torbaaz;Movie;India;2020-12-11;Drama;"Little Lamb Films Pvt. Ltd.";1226
+323;Blockers;Movie;"United States";2018-03-14;Comedy;"Universal Pictures";1223
+324;"Inside the World's Toughest Prisons";TV;"United Kingdom";2016-04-20;Documentary;Netflix;1220
+325;Summertime;TV;Italy;2020-04-29;Drama;Netflix;1219
+326;"Ginny Weds Sunny";Movie;India;2020-10-09;Comedy;Netflix;1209
+327;Ethos;TV;Turkey;2020-11-12;Drama;Netflix;1206
+328;"King Arthur: Legend of the Sword";Movie;"United Kingdom";2017-03-22;Fantasy;"Warner Bros. Pictures";1205
+329;"Offering to the Storm";Movie;Spain;2020-07-24;Thriller;Netflix;1203
+330;"Have a Good Trip: Adventures in Psychedelics";Movie;"United States";2020-05-11;Documentary;Netflix;1202
+331;"Johnny English Reborn";Movie;"United Kingdom";2011-09-15;Comedy;"Universal Pictures";1196
+332;Adú;Movie;Spain;2020-07-01;Drama;;1189
+333;"Gemini Man";Movie;"United States";2019-10-02;"Science Fiction";"Skydance Media";1189
+334;"Harry Potter and the Prisoner of Azkaban";Movie;"United Kingdom";2004-05-31;Fantasy;"Warner Bros. Pictures";1186
+335;"Unfriended: Dark Web";Movie;"United States";2018-07-19;Horror;;1184
+336;Upgrade;Movie;"United States";2018-06-01;"Science Fiction";;1184
+337;Vacation;Movie;"United States";2015-07-29;Comedy;;1182
+338;Savages;Movie;"United States";2012-07-06;Thriller;Ixtlan;1177
+339;"The Hater";Movie;Poland;2020-07-29;Drama;"Canal+ Polska";1168
+340;"After Life";TV;"United Kingdom";2019-03-08;Comedy;Netflix;1168
+341;"Fast Five";Movie;"United States";2011-04-28;Action;"Universal Pictures";1168
+342;"I'm Thinking of Ending Things";Movie;"United States";2020-09-04;Thriller;Netflix;1167
+343;"The Crimes That Bind";Movie;Argentina;2020-08-20;Crime;Netflix;1163
+344;"Tom and Jerry: The Movie";Movie;"United States";1992-10-01;Animated;"Warner Bros. Pictures";1159
+345;"The Nun";Movie;"United States";2018-07-11;Horror;"Warner Bros. Pictures";1148
+346;"The Angry Birds Movie 2";Movie;"United States";2019-08-02;Animated;"Sony Pictures";1146
+347;Chiquititas;TV;Brazil;2013-07-15;Comedy;;1143
+348;"Alguien tiene que morir";TV;Mexico;2020-10-16;Crime;Netflix;1142
+349;"The Silence of the Marsh";Movie;Spain;2020-04-22;Thriller;Netflix;1137
+350;"The Decline";Movie;Canada;2020-03-27;Thriller;Netflix;1136
+351;"The Lovebirds";Movie;"United States";2020-05-21;Comedy;Netflix;1127
+352;"Space Jam";Movie;"United States";1996-11-15;Comedy;"Warner Bros. Pictures";1121
+353;"American Sniper";Movie;"United States";2014-12-25;War;"Warner Bros. Pictures";1119
+354;Goblin;TV;"South Korea";2016-12-02;Fantasy;;1118
+355;"Fantastic Beasts: The Crimes of Grindelwald";Movie;"United Kingdom";2018-11-14;Fantasy;"Warner Bros. Pictures";1117
+356;"Mercury Rising";Movie;"United States";1998-04-03;Thriller;"Universal Pictures";1115
+357;"The Losers";Movie;"United States";2010-04-23;Action;;1112
+358;Neighbors;Movie;"United States";2014-05-08;Comedy;"Universal Pictures";1105
+359;Mismatched;TV;India;2020-11-20;Drama;Netflix;1097
+360;"Peppa Pig";TV;"United Kingdom";2004-05-31;Animation;"Entertainment One";1093
+361;Marcella;TV;"United Kingdom";2016-04-04;Crime;Netflix;1090
+362;"The Worst Witch";TV;"United Kingdom";2017-01-11;Fantasy;Netflix;1088
+363;Curon;TV;Italy;2020-06-10;Fantasy;Netflix;1082
+364;"Close Enough";TV;"United States";2020-09-15;Animation;HBO;1079
+365;"SpongeBob SquarePants";TV;"United States";1999-05-01;Animation;Nickelodeon;1079
+366;Battleship;Movie;"United States";2012-04-11;"Science Fiction";;1079
+367;"Blood Diamond";Movie;"United States";2006-12-07;Thriller;"Warner Bros. Pictures";1063
+368;"Million Dollar Beach House";TV;"United States";2020-08-26;Reality-Show;Netflix;1062
+369;Dunkirk;Movie;"United Kingdom";2017-07-19;War;"Warner Bros. Pictures";1062
+370;"Truth or Dare";Movie;"United States";2018-04-12;Horror;"Blumhouse Productions";1059
+371;"What We Wanted";Movie;Austria;2020-11-11;Drama;Netflix;1046
+372;"La Piloto";TV;Mexico;2017-03-07;Drama;;1043
+373;"The Impossible";Movie;Spain;2012-10-11;Thriller;;1037
+374;"The Protector";TV;Turkey;2018-12-14;Mystery;Netflix;1033
+375;Wanted;Movie;"United States";2008-06-26;Superhero;"Universal Pictures";1033
+376;"The 2nd";Movie;"United States";2020-09-01;Action;;1031
+377;"Hi Bye, Mama!";TV;"South Korea";2020-04-25;Drama;Netflix;1027
+378;"Charlie's Angels";Movie;"United States";2019-11-07;Action;"Sony Pictures";1020
+379;"The Lorax";Movie;"United States";2012-03-01;Animated;"Universal Pictures";1015
+380;Oloture;Movie;Nigeria;2020-10-03;Crime;Netflix;1013
+381;"The Mask";Movie;"United States";1994-07-29;Comedy;"Warner Bros. Pictures";1005
+382;"Blade Runner 2049";Movie;"United States";2017-10-04;"Science Fiction";"Warner Bros. Pictures";1001
+383;"After We Collided";Movie;"United States";2020-09-02;Romance;"Open Road Films";993
+384;Community;TV;"United States";2009-09-17;Comedy;NBC;992
+385;Citation;Movie;Nigeria;2020-11-05;Drama;Netflix;983
+386;"Julie and the Phantoms";TV;"United States";2020-09-10;Comedy;Netflix;978
+387;Stateless;TV;Australia;2020-03-01;Drama;;966
+388;"No Manches Frida";Movie;Mexico;2016-09-02;Comedy;;965
+389;"Serious Men";Movie;India;2020-10-02;Comedy;Netflix;957
+390;"Jumanji: Welcome to the Jungle";Movie;"United States";2017-12-20;Adventure;"Sony Pictures";950
+391;"A Quiet Place";Movie;"United States";2018-04-03;Horror;"Paramount Pictures";949
+392;"Dolly Kitty and Those Shining Stars";Movie;India;2020-09-18;Comedy;"Balaji Motion Pictures";948
+393;"Athlete A";Movie;"United States";2020-06-24;Documentary;Netflix;948
+394;Parasite;Movie;"South Korea";2019-05-30;Drama;;947
+395;"Fire Force";TV;Japan;2019-07-06;Animation;;945
+396;"His House";Movie;"United States";2020-10-30;Thriller;Netflix;936
+397;"From Prada to Nada";Movie;Mexico;2011-01-28;Comedy;;935
+398;Doomsday;Movie;"United Kingdom";2008-03-14;Thriller;"Rogue Pictures";934
+399;(Un)Well;TV;"United States";2020-08-12;Documentary;Netflix;933
+400;"Sniper: Legacy";Movie;"United States";2014-09-30;Action;;932
+401;"The Queen of Flow";TV;Colombia;2018-06-12;Drama;Netflix;927
+402;"Gunjan Saxena: The Kargil Girl";Movie;India;2020-08-12;War;Netflix;925
+403;"Howls Moving Castle";Movie;Japan;2004-11-19;Animated;"Studio Ghibli";922
+404;Joker;Movie;"United States";2019-10-02;Superhero;"Warner Bros. Pictures";917
+405;"Rosario Tijeras";Movie;Colombia;2005-08-12;Drama;;914
+406;"Grown Ups";Movie;"United States";2010-06-24;Comedy;"Sony Pictures";914
+407;"Rich in Love";Movie;Brazil;2020-04-30;Comedy;Netflix;912
+408;"New Girl";TV;"United States";2011-09-20;Comedy;;912
+409;"18 Presents";Movie;Italy;2020-01-02;Drama;;907
+410;"Room 2806: The Accusation";TV;France;2020-12-07;Documentary;Netflix;900
+411;Ultras;Movie;Italy;2020-03-20;Drama;Netflix;889
+412;"Fantasy Island";Movie;"United States";2020-02-06;Horror;"Sony Pictures";888
+413;"The Invention of Lying";Movie;"United States";2009-09-13;Comedy;;886
+414;"The Stand In";Movie;"United States";2020-12-03;Comedy;;879
+415;"Charlie and the Chocolate Factory";Movie;"United States";2005-07-09;Fantasy;"Warner Bros. Pictures";876
+416;"The Change-Up";Movie;"United States";2011-08-05;Comedy;;865
+417;Alpha;Movie;"United States";2018-08-17;Adventure;"Sony Pictures";860
+418;"The Intern";Movie;"United States";2015-09-24;Comedy;"Waverly Films";858
+419;"Dream Home Makeover";TV;"United States";2020-10-16;Reality-Show;Netflix;853
+420;"Betty en NY";TV;"United States";2019-02-06;Comedy;;853
+421;"The Wolf of Wall Street";Movie;"United States";2013-12-25;Drama;"Paramount Pictures";853
+422;"Be Careful What You Wish For";Movie;Mexico;2020-04-24;Horror;;851
+423;"A Whisker Away";Movie;Japan;2020-06-18;Animated;Netflix;851
+424;"Jack Reacher";Movie;"United States";2012-12-21;Thriller;"Paramount Pictures";850
+425;"I Love You, Stupid";Movie;Spain;2020-05-15;Comedy;Netflix;848
+426;"Class of '83";Movie;India;2020-08-21;Drama;Netflix;845
+427;"Death Wish";Movie;"United States";2018-03-02;Action;MGM;845
+428;"Get Hard";Movie;"United States";2015-03-27;Comedy;;843
+429;"8 Mile";Movie;"United States";2002-11-08;Drama;"Universal Pictures";842
+430;"Going in Style";Movie;"United States";2017-04-06;Comedy;;841
+431;"He's Out There";Movie;Canada;2018-10-25;Horror;;828
+432;"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)";Movie;"United States";2020-02-05;Superhero;"Warner Bros. Pictures";827
+433;"Father Figures";Movie;"United States";2017-12-21;Comedy;;826
+434;"What's Wrong with Secretary Kim";TV;"South Korea";2018-06-06;Drama;;825
+435;"Love is Blind";TV;"United States";2020-02-13;Reality-Show;Netflix;823
+436;Shazam!;Movie;"United States";2019-03-23;Superhero;"Warner Bros. Pictures";818
+437;Contagion;Movie;"United States";2011-09-09;Thriller;"Warner Bros. Pictures";816
+438;"The Legend of Korra";TV;"United States";2012-04-14;Fantasy;Nickelodeon;814
+439;Cuties;Movie;France;2020-09-09;Drama;Netflix;805
+440;"Masaba Masaba";TV;India;2020-08-28;Comedy;Netflix;803
+441;"Den of Thieves";Movie;"United States";2018-01-18;Action;;803
+442;"Recep Ivedik 6";Movie;Turkey;2019-11-07;Comedy;;802
+443;"Sicario: Day Of The Soldado";Movie;"United States";2018-06-29;Crime;;802
+444;"The Mule";Movie;"United States";2018-12-14;Drama;"Warner Bros. Pictures";798
+445;"The SpongeBob SquarePants Movie";Movie;"United States";2004-11-14;Animated;Nickelodeon;798
+446;"Keeping Up with the Kardashians";TV;"United States";2007-10-14;Reality-Show;;797
+447;"Raat Akeli Hai";Movie;India;2020-07-31;Crime;Netflix;794
+448;"Self Made: Inspired by the Life of Madam C.J. Walker";TV;"United States";2020-03-20;Drama;Netflix;794
+449;"My Hero Academia";TV;Japan;2016-04-03;Animation;;792
+450;"The Irishman";Movie;"United States";2019-12-31;Drama;Netflix;791
+451;"Life of the Party";Movie;"United States";2018-05-10;Comedy;"New Line Cinema";791
+452;"Robin Hood";Movie;"United States";2018-09-01;Adventure;;790
+453;"Run All Night";Movie;"United States";2015-03-13;Action;"Vertigo Entertainment";787
+454;"Jack Ryan: Shadow Recruit";Movie;"United States";2014-01-17;Action;"Paramount Pictures";786
+455;"Coronavirus, Explained";TV;"United Kingdom";2020-04-26;Documentary;Netflix;782
+456;"The Duchess";TV;"United Kingdom";2020-09-11;Comedy;Netflix;780
+457;"Slender Man";Movie;"United States";2018-08-22;Horror;Sony;780
+458;"Cloudy with a Chance of Meatballs 2";Movie;"United States";2013-09-27;Animated;"Sony Pictures";779
+459;"Think Like a Dog";Movie;"United States";2020-06-05;Comedy;;777
+460;"Unknown Origins";Movie;Spain;2020-08-28;Crime;Netflix;776
+461;"The Big Bang Theory";TV;"United States";2007-09-24;Comedy;CBS;776
+462;"G.I. Joe: Retaliation";Movie;"United States";2013-03-29;"Science Fiction";"Paramount Pictures";772
+463;"Los favoritos de Midas";TV;Spain;2020-11-13;Drama;Netflix;769
+464;Baki;TV;Japan;2018-06-26;Animation;Netflix;769
+465;"Attack on Titan";TV;Japan;2013-04-06;Animation;;769
+466;"Assassin's Creed";Movie;"United States";2016-12-21;"Science Fiction";"20th Century Fox";765
+467;Outlander;TV;"United States";2014-08-09;Drama;Starz;764
+468;"Instructions Not Included";Movie;Mexico;2013-07-20;Drama;;762
+469;"The SpongeBob Movie: Sponge Out of Water";Movie;"United States";2015-02-06;Animated;"Paramount Pictures";760
+470;"Mamma Mia: Here We Go Again!";Movie;"United States";2018-07-19;Music;"Universal Pictures";759
+471;"The Foreigner";Movie;"United Kingdom";2017-09-28;Thriller;;754
+472;"The Legacy of the Bones";Movie;Spain;2019-12-05;Crime;Netflix;749
+473;"The Victims' Game";TV;Taiwan;2020-04-30;Crime;Netflix;748
+474;"Fast and Furious Spy Racers";TV;"United States";2019-12-26;Animation;Netflix;748
+475;"Breaking In";Movie;"United States";2018-05-05;Crime;;748
+476;Faster;Movie;"United States";2010-11-23;Thriller;;747
+477;"Due Date";Movie;"United States";2010-11-04;Comedy;"Warner Bros. Pictures";744
+478;"Jujutsu Kaisen";TV;Japan;2020-10-03;Animation;;741
+479;"We Are the Champions";TV;"United States";2020-11-17;Documentary;Netflix;737
+480;"Little Italy";Movie;Canada;2018-08-24;Comedy;;737
+481;"It Chapter Two";Movie;"United States";2019-09-04;Horror;"Warner Bros. Pictures";731
+482;"Harry Potter and the Half-Blood Prince";Movie;"United Kingdom";2009-07-07;Fantasy;"Warner Bros. Pictures";728
+483;"The House of Flowers";TV;Mexico;2018-08-10;Drama;Netflix;726
+484;"Carmel: Who Killed Maria Marta?";TV;Argentina;2020-11-05;Documentary;Netflix;725
+485;"Mary Queen of Scots";Movie;"United Kingdom";2018-12-21;History;"Universal Pictures";723
+486;"The Ninth Gate";Movie;France;1999-12-23;Thriller;"Canal Plus";723
+487;H;TV;France;1998-10-24;Comedy;;721
+488;Sing;Movie;"United States";2016-12-21;Animated;"Universal Pictures";720
+489;"John Wick: Chapter Two";Movie;"United States";2017-02-10;Action;"Summit Entertainment";708
+490;Sergio;Movie;"United States";2020-04-17;Drama;Netflix;707
+491;"Latte and the Magic Waterstone";Movie;Germany;2019-12-11;Animated;;705
+492;"300: Rise of an Empire";Movie;"United States";2014-03-07;History;"Warner Bros. Pictures";703
+493;"The School Nurse Files";TV;"South Korea";2020-09-25;Fantasy;Netflix;701
+494;"Challenger: The Final Flight";TV;"United States";2020-09-16;Documentary;Netflix;700
+495;Scooby-Doo;Movie;"United States";2002-06-14;Adventure;"Warner Bros. Pictures";697
+496;"O Vendedor de Sonhos";Movie;Brazil;2016-12-08;Drama;;693
+497;"Mohamed Hussein";Movie;Lebanon;2019-07-25;Comedy;;692
+498;Contraband;Movie;"United States";2012-01-13;Thriller;"Universal Pictures";690
+499;"El Testamento de la Abuela";Movie;Mexico;2020-10-09;Comedy;;689
+500;"Pride & Prejudice";Movie;"United Kingdom";2005-09-16;Romance;"Universal Pictures";688
